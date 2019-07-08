@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29020.237
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VOD.UI", "VOD.UI\VOD.UI.csproj", "{44BEE5A6-37D3-436E-8173-246706DC5329}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VOD.Common", "VOD.Common\VOD.Common.csproj", "{E47014A4-E57B-40CA-BF34-66EA3213ACEE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VOD.Database", "VOD.Database\VOD.Database.csproj", "{7371C4C7-BDDA-4DFF-A68A-2228CD713D13}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{44BEE5A6-37D3-436E-8173-246706DC5329}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{44BEE5A6-37D3-436E-8173-246706DC5329}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{44BEE5A6-37D3-436E-8173-246706DC5329}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{44BEE5A6-37D3-436E-8173-246706DC5329}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E47014A4-E57B-40CA-BF34-66EA3213ACEE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E47014A4-E57B-40CA-BF34-66EA3213ACEE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E47014A4-E57B-40CA-BF34-66EA3213ACEE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E47014A4-E57B-40CA-BF34-66EA3213ACEE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7371C4C7-BDDA-4DFF-A68A-2228CD713D13}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7371C4C7-BDDA-4DFF-A68A-2228CD713D13}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7371C4C7-BDDA-4DFF-A68A-2228CD713D13}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7371C4C7-BDDA-4DFF-A68A-2228CD713D13}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A1FBD2EC-D5B2-4CD4-81E6-27982D6CD282}
+	EndGlobalSection
+EndGlobal
